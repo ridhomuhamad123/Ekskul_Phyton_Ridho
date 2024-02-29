@@ -1,7 +1,6 @@
-nilai = 50
+nilai = 69
 
 print('Nilai anda adalah:', nilai, '\n')
-
 if nilai >= 70:
   print('Selamat, anda lulus!')
 else:
