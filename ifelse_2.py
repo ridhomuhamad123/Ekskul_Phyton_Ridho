@@ -1,8 +1,17 @@
-nilai = 50
+# nilai = 50
 
-print('Nilai anda adalah:', nilai, '\n')
+# print('Nilai anda adalah:', nilai, '\n')
 
-if nilai >= 70:
-  print('Selamat, anda lulus!')
+# if nilai >= 70:
+#   print('Selamat, anda lulus!')
+# else:
+#   print('Maaf, anda tidak lulus.')
+  
+mobil = (input("warna : "))
+
+print('jika mobil warna:', mobil, '\n')
+
+if mobil == "merah":
+  print('itu mobil anda.', mobil )
 else:
-  print('Maaf, anda tidak lulus.')
+  print('bukan mobil anda karena.', mobil)

@@ -1,4 +1,4 @@
 panjang = int(input("Panjang : "))
 lebar = int(input("Lebar : "))
-
-print("Luas = ", )
+luas = (panjang*lebar)
+print("Luas = ", luas)
